@@ -1,10 +1,5 @@
-<<<<<<< HEAD
-Pablo
-19
-lea java
-Si en una rama se trabajan 2 archivos al mismo tiempo al subirlos puede tener conflictos. Ya que git no sabra cual cuambio es el correcto y solo tomara el que primero se sube. ya el segundo, El desarrollador tendra que resolver ese conflicto
-=======
 Nombre:       Pablo
 Edad:         19
 Aspiraciones: Aprender los conceptos de POO Y utilizarlos de manera correcta en python y java
->>>>>>> 5d84dc6 (Update merge.txt)
+
+Si en una rama se trabajan 2 archivos al mismo tiempo al subirlos puede tener conflictos. Ya que git no sabra cual cuambio es el correcto y solo tomara el que primero se sube. ya el segundo, El desarrollador tendra que resolver ese conflicto
